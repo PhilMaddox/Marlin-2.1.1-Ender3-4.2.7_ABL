@@ -8,7 +8,7 @@ Download and install VS code
 
 In VS code install platform IO  pluggin.
 
-Again in VS code install, Marlin Auto build pluggin .
+Again in VS code, install Marlin Auto build pluggin .
 
 Download and unzip Marlin 2.1.1 
 
@@ -16,4 +16,6 @@ Compile the basic Marlin firmware "as is"  ( TO confirm you have VS code and plu
 
 In the Marlin folder copy in the config files found here.
 
-Re-compile the firmware 
+Re-compile the firmware then upload the bin file to the printer.
+
+At first boot be sure to initialise the new firmware ( load settings M502) then save settings ( M500) or load and save using LCD menu options 
