@@ -19,3 +19,5 @@ In the Marlin folder copy in the config files found here.
 Re-compile the firmware then upload the bin file to the printer.
 
 At first boot be sure to initialise the new firmware ( load settings M502) then save settings ( M500) or load and save using LCD menu options 
+
+You may need to adjust the probe offset settings to suit your machine !
