@@ -2,7 +2,7 @@
 
 Here are the confirmed working config files for an Ender3 with 4.2.7 controller and ABL ( using the 5 pin probe port) 
 
-The easiest way tio use these files is
+The easiest way to use these files is
 
 Download and install VS code
 
